@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ReportCard</string>
+    <string name="loginfailed">Login Failed. Try Again !!!</string>
+    <string name="loginsuccess">Login Success</string>
+    <string name="login">Login</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_email">Email</string>
+    <string name="action_save">Save</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+</resources>
